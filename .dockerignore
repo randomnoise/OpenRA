@@ -12,6 +12,7 @@
 COPYING
 AUTHORS
 VERSION
+alpine.Dockerfile
 Dockerfile
 omnisharp.json
 *.md
